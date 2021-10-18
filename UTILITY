@@ -1,0 +1,27 @@
+.flex-all-center{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+#flex-all-center{
+   display: flex;
+   justify-content: baseline;
+   align-items:center;
+   style="font-size:12pt;
+    margin:10px 0px;
+  color:#000;
+
+}
+.btn:hover{
+   padding: 5px 10px;
+   color: white;
+   background-color: rgb(182, 185, 185);
+   border: thistle;
+   border-radius: 7px;
+   font-weight: 900;
+   cursor:pointer;
+}
+.my-1{
+   margin: 5px,0;
+
+}
